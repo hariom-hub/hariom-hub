@@ -1,4 +1,4 @@
-- 👋 Hi, this is @hariom-hub
+- 👋 WELCOME, this is @hariom-hub
 - 👀 I’m interested in solving problems in coding
 - 🌱 I’m skilled HTML,CSS,JAVASCRIPT & C and backend
 - 💞️ I’m looking to collaborate with the coding communities in my country
