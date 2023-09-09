@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hariom-hub
+- 👋 Hi, this is @hariom-hub
 - 👀 I’m interested in solving problems in coding
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT & C
+- 🌱 I’m skilled HTML,CSS,JAVASCRIPT & C and backend
 - 💞️ I’m looking to collaborate with the coding communities in my country
 - 📫 
 
