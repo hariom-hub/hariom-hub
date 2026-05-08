@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **A passionate Full-Stack Developer & Machine Learning Enthusiast** 🚀
+  **A passionate Full-Stack Developer & AI/ML Explorer** 🚀
   
   > *"Consistency is the key."* - My Motto
   
