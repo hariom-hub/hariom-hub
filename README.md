@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-I'm a dedicated developer with expertise in **Java**, **Spring Boot**, **Machine Learning**, and **Full-Stack Development**. I love building scalable applications and solving real-world problems through code. Currently focused on DSA mastery and advanced backend development.
+I'm a dedicated developer with expertise in **Java**, **Spring Boot** and **Full-Stack Development**. I love building scalable applications and solving real-world problems through code. Currently focused on DSA mastery and advanced backend development.
 
 - 🔥 **Main Language**: Java
 - 💻 **Specializations**: Spring Boot, REST APIs, Database Design, ML Models
@@ -44,9 +44,7 @@ I'm a dedicated developer with expertise in **Java**, **Spring Boot**, **Machine
 
 ### Data Science & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
