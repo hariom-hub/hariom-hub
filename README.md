@@ -214,5 +214,3 @@ I'm a dedicated developer with expertise in **Java**, **Spring Boot** and **Full
 </div>
 
 ---
-
-*Last Updated: 2026-05-08*
